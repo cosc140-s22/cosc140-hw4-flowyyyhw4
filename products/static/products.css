@@ -1,0 +1,8 @@
+.rightalign {
+    text-align: right;
+}
+
+summary {
+  font-size: 20pt;
+  text-decoration: underline;
+}

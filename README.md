@@ -8,5 +8,7 @@
 
 ## Feedback
 
-Once you commit and submit your work to Github, I'll update this section with feedback.
+S
+
+Looks good!  Nice drop-downs on the product details page!
 
